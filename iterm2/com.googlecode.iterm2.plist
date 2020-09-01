@@ -1609,7 +1609,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/eriksuen</string>
+			<string>/Users/leonwong</string>
 			<key>tmux Pane Title</key>
 			<string>Default</string>
 		</dict>
@@ -2386,7 +2386,7 @@
 	<key>NoSyncSavePanelSavedSettings_SaveProfile</key>
 	<dict>
 		<key>Initial Directory</key>
-		<string>/Users/eriksuen/Google Drive/dotfiles/iterm2</string>
+		<string>/Users/leonwong/Google Drive/dotfiles/iterm2</string>
 	</dict>
 	<key>NoSyncTipOfTheDayEligibilityBeganTime</key>
 	<real>604840363.60694802</real>
@@ -2438,7 +2438,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/eriksuen/.dotfiles/iterm2</string>
+	<string>/Users/leonwong/.dotfiles/iterm2</string>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>

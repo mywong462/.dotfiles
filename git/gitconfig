@@ -1,5 +1,5 @@
 [core]
-	excludesfile = /Users/eriksuen/.gitignore_global
+	excludesfile = /Users/leonwong/.gitignore_global
 	editor = vim
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
@@ -8,8 +8,8 @@
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [user]
-	name = eriksuen
-	email = eriksuen@cryptoblk.io
+	name = leonwong
+	email = leonwong@cryptoblk.io
 [commit]
 	template = $HOME/.stCommitMsg
 [alias]
