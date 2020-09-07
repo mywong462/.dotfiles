@@ -128,3 +128,34 @@ eval "$(pyenv init -)"
 source <(kubectl completion zsh)
 
 export PATH="/usr/local/opt/terraform@0.12/bin:$PATH"
+
+# Vault
+export VAULT_ADDR=https://vault.office.cryptoblk.io
+getvaultcert()
+{
+  VAULT_SCRIPT_PATH="~/Work/Vault/cblk_vault/vltbuild/vaultcmd.py"
+  if [ "$#" -ne "1" ]; then
+    echo "Please input 1 arg: level."
+    return 1
+  fi
+
+  LEVEL=$1
+  case $LEVEL in
+    high|mid|low)
+      COMMAND="python $VAULT_SCRIPT_PATH ssh -l $LEVEL"
+      ;;
+    *)
+      echo "no such level"
+      return 1
+      ;;
+
+  esac
+  if ! eval "$COMMAND" ; then
+    echo "Need to login again"
+    vault login -method=oidc
+    eval "$COMMAND"
+  fi
+}
+
+alias startssh="python3 <path to infra_script>/infra_scripts/scripts/start_ssh_cluster/startssh.py"
+
