@@ -2,7 +2,7 @@ ZSH_DISABLE_COMPFIX=true
 
 # If you come from bash you might have to change your $PATH.
 export JAVA_HOME=$(/usr/libexec/java_home)
-export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$HOME/Library:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
@@ -157,5 +157,5 @@ getvaultcert()
   fi
 }
 
-alias startssh="python3 <path to infra_script>/infra_scripts/scripts/start_ssh_cluster/startssh.py"
+alias startssh="python3 ~/Work/infra_scripts/scripts/start_ssh_cluster/startssh.py"
 
