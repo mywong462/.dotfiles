@@ -364,6 +364,8 @@
 	<string>9BC89467-25C2-4307-A29A-2DD5970F4134</string>
 	<key>DoubleClickPerformsSmartSelection</key>
 	<false/>
+	<key>EnableAPIServer</key>
+	<true/>
 	<key>EnableRendezvous</key>
 	<false/>
 	<key>HapticFeedbackForEsc</key>
@@ -383,13 +385,11 @@
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Documents</string>
 	<key>NSNavLastUserSetHideExtensionButtonState</key>
-	<false/>
+	<true/>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{799, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
 	<string>{712, 448}</string>
-	<key>NSNavPanelExpandedStateForSaveMode</key>
-	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -431,38 +431,16 @@
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
-	<key>NSWindow Frame NSColorPanel</key>
-	<string>45 83 224 275 0 0 1440 877 </string>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
-	<string>343 321 799 448 0 0 1440 877 </string>
-	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>2410 227 620 392 0 0 1440 877 </string>
+	<string>691 634 347 181 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2947 -703 850 728 1440 -540 2560 1417 </string>
+	<string>101 305 717 716 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>222 81 1270 796 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 10</key>
-	<string>2434 -161 850 728 1440 -180 1920 1057 </string>
-	<key>NSWindow Frame iTerm Window 11</key>
-	<string>1939 149 850 728 1440 -180 1920 1057 </string>
-	<key>NSWindow Frame iTerm Window 12</key>
-	<string>1781 -180 1312 813 1440 -180 1920 1057 </string>
+	<string>280 178 829 700 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>487 82 850 728 0 0 1440 877 </string>
+	<string>781 299 850 728 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>66 136 850 728 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 4</key>
-	<string>44 146 850 728 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 5</key>
-	<string>45 149 850 728 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 6</key>
-	<string>381 47 850 728 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 7</key>
-	<string>1483 -102 850 728 1440 -180 1920 1057 </string>
-	<key>NSWindow Frame iTerm Window 8</key>
-	<string>628 149 850 728 0 0 1440 877 </string>
-	<key>NSWindow Frame iTerm Window 9</key>
-	<string>1931 81 850 728 1440 -180 1920 1057 </string>
+	<string>830 286 850 728 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1616,59 +1594,31 @@
 	</array>
 	<key>NoSyncAllAppVersions</key>
 	<array>
-		<string>3.3.9</string>
+		<string>3.3.12</string>
 	</array>
-	<key>NoSyncBFPFavorites</key>
-	<array>
-		<string>MesloLGM Nerd Font</string>
-	</array>
-	<key>NoSyncBFPRecents</key>
-	<array>
-		<string>Monaco</string>
-		<string>MesloLGMDZ Nerd Font</string>
-		<string>MesloLGS Nerd Font</string>
-		<string>MesloLGM Nerd Font</string>
-	</array>
-	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
-	<true/>
-	<key>NoSyncDoNotWarnBeforePastingOneLineEndingInNewlineAtShellPrompt</key>
-	<true/>
-	<key>NoSyncDoNotWarnBeforePastingOneLineEndingInNewlineAtShellPrompt_selection</key>
-	<integer>1</integer>
-	<key>NoSyncFrame_SessionsPreferences</key>
-	<dict>
-		<key>screenFrame</key>
-		<string>{{0, 0}, {1440, 900}}</string>
-		<key>topLeft</key>
-		<string>{231, 581}</string>
-	</dict>
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
-		<string>{{0, 0}, {1440, 900}}</string>
+		<string>{{0, 0}, {1680, 1050}}</string>
 		<key>topLeft</key>
-		<string>{104, 761}</string>
+		<string>{310, 897}</string>
 	</dict>
-	<key>NoSyncInstallUtilitiesPackage</key>
+	<key>NoSyncHaveUsedCopyMode</key>
 	<true/>
-	<key>NoSyncInstallUtilitiesPackage_selection</key>
-	<integer>0</integer>
 	<key>NoSyncInstallationId</key>
-	<string>6E2A074B-927D-4990-8FCB-71A042E7AB11</string>
-	<key>NoSyncLastTipTime</key>
-	<real>606228172.77254605</real>
+	<string>744FCF7F-23E3-44BE-9C10-A3743F470560</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>24</integer>
+	<integer>10</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
-	<real>605721419.868186</real>
+	<real>620989655.06145799</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
 	<true/>
 	<key>NoSyncPermissionToShowTip</key>
-	<true/>
+	<false/>
 	<key>NoSyncRecordedVariables</key>
 	<dict>
 		<key>0</key>
@@ -2027,14 +1977,6 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
-				<string>currentTab.currentSession.lastCommand</string>
-				<key>nonterminalContext</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>isTerminal</key>
-				<true/>
-				<key>name</key>
 				<string>currentTab.currentSession.terminalWindowName</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
@@ -2099,14 +2041,6 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
-				<string>currentTab.currentSession.path</string>
-				<key>nonterminalContext</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>isTerminal</key>
-				<true/>
-				<key>name</key>
 				<string>currentTab.currentSession.commandLine</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
@@ -2115,7 +2049,23 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
+				<string>currentTab.currentSession.path</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
 				<string>currentTab.currentSession.hostname</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
+				<string>currentTab.titleOverrideFormat</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -2318,7 +2268,7 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
-				<string>currentSession.path</string>
+				<string>currentSession.pid</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -2326,7 +2276,7 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
-				<string>currentSession.pid</string>
+				<string>currentSession.path</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -2383,23 +2333,14 @@
 			</dict>
 		</array>
 	</dict>
-	<key>NoSyncSavePanelSavedSettings_SaveProfile</key>
-	<dict>
-		<key>Initial Directory</key>
-		<string>/Users/leonwong/Google Drive/dotfiles/iterm2</string>
-	</dict>
-	<key>NoSyncTipOfTheDayEligibilityBeganTime</key>
-	<real>604840363.60694802</real>
-	<key>NoSyncTipsDisabled</key>
+	<key>NoSyncSaveDocumentAsPathSet_saveDocumentAs:</key>
 	<true/>
-	<key>NoSyncTipsToNotShow</key>
-	<array>
-		<string>0001</string>
-		<string>000</string>
-		<string>0002</string>
-		<string>0000</string>
-		<string>0003</string>
-	</array>
+	<key>NoSyncSuppressBroadcastInputWarning</key>
+	<true/>
+	<key>NoSyncSuppressBroadcastInputWarning_selection</key>
+	<integer>0</integer>
+	<key>NoSyncTipOfTheDayEligibilityBeganTime</key>
+	<real>620642673.36719406</real>
 	<key>OpenBookmark</key>
 	<false/>
 	<key>PMPrintingExpandedStateForPrint2</key>
@@ -2446,19 +2387,17 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final_new.xml?shard=19</string>
+	<string>https://iterm2.com/appcasts/final_new.xml?shard=7</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-06-09T06:49:05Z</date>
+	<date>2020-09-17T01:00:48Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
-	<key>SUUpdateGroupIdentifier</key>
-	<integer>2212615384</integer>
-	<key>SUUpdateRelaunchingMarker</key>
-	<true/>
 	<key>SavePasteHistory</key>
 	<false/>
+	<key>SetCookie</key>
+	<true/>
 	<key>ShowFullScreenTabBar</key>
 	<false/>
 	<key>SoundForEsc</key>
@@ -2468,7 +2407,7 @@
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.3.9</string>
+	<string>3.3.12</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
