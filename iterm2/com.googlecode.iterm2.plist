@@ -434,11 +434,11 @@
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>691 634 347 181 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>101 305 717 716 0 0 1680 1027 </string>
+	<string>707 1286 1165 966 -496 1050 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>280 178 829 700 0 0 1680 1027 </string>
+	<string>50 0 1630 1027 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>781 299 850 728 0 0 1680 1027 </string>
+	<string>-67 1263 2348 1204 -496 1050 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>830 286 850 728 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
@@ -1608,7 +1608,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>744FCF7F-23E3-44BE-9C10-A3743F470560</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>10</integer>
+	<integer>17</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2391,7 +2391,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-09-17T01:00:48Z</date>
+	<date>2020-09-30T01:27:07Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -2399,7 +2399,7 @@
 	<key>SetCookie</key>
 	<true/>
 	<key>ShowFullScreenTabBar</key>
-	<false/>
+	<true/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>VisualIndicatorForEsc</key>
