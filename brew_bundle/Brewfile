@@ -7,7 +7,6 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "rigellute/tap"
 brew "openssl@1.1"
-brew "ansible"
 brew "python@3.8", link: true
 brew "azure-cli"
 brew "bfg"
