@@ -127,7 +127,7 @@ eval "$(pyenv init -)"
 # auto-complete for kubectl
 source <(kubectl completion zsh)
 
-export PATH="/usr/local/opt/terraform@0.12/bin:$PATH"
+#export PATH="/usr/local/opt/terraform@0.12/bin:$PATH"
 
 # Vault
 export VAULT_ADDR=https://vault.office.cryptoblk.io
